@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sDoor",
+    "path":"sprites/sDoor/sDoor.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
