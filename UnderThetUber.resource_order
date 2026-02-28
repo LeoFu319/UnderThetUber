@@ -3,6 +3,10 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"rGreenPark","order":4,"path":"rooms/rGreenPark/rGreenPark.yy",},
+    {"name":"rOxfordCircus","order":3,"path":"rooms/rOxfordCircus/rOxfordCircus.yy",},
+    {"name":"rVictoria","order":5,"path":"rooms/rVictoria/rVictoria.yy",},
+    {"name":"rWarrenStreet","order":2,"path":"rooms/rWarrenStreet/rWarrenStreet.yy",},
     {"name":"sCarriage","order":2,"path":"sprites/sCarriage/sCarriage.yy",},
     {"name":"sDoor","order":1,"path":"sprites/sDoor/sDoor.yy",},
     {"name":"sDriver","order":5,"path":"sprites/sDriver/sDriver.yy",},

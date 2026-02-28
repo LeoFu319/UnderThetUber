@@ -21,7 +21,11 @@
   },
   "name":"UnderThetUber",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"rEuston","path":"rooms/rEuston/rEuston.yy",},},
+    {"id":{"name":"rGreenPark","path":"rooms/rGreenPark/rGreenPark.yy",},},
+    {"id":{"name":"rOxfordCircus","path":"rooms/rOxfordCircus/rOxfordCircus.yy",},},
+    {"id":{"name":"rVictoria","path":"rooms/rVictoria/rVictoria.yy",},},
+    {"id":{"name":"rWarrenStreet","path":"rooms/rWarrenStreet/rWarrenStreet.yy",},},
     {"id":{"name":"sCarriage","path":"sprites/sCarriage/sCarriage.yy",},},
     {"id":{"name":"sDoor","path":"sprites/sDoor/sDoor.yy",},},
     {"id":{"name":"sDriver","path":"sprites/sDriver/sDriver.yy",},},
@@ -33,7 +37,11 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rEuston","path":"rooms/rEuston/rEuston.yy",},},
+    {"roomId":{"name":"rWarrenStreet","path":"rooms/rWarrenStreet/rWarrenStreet.yy",},},
+    {"roomId":{"name":"rOxfordCircus","path":"rooms/rOxfordCircus/rOxfordCircus.yy",},},
+    {"roomId":{"name":"rGreenPark","path":"rooms/rGreenPark/rGreenPark.yy",},},
+    {"roomId":{"name":"rVictoria","path":"rooms/rVictoria/rVictoria.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
