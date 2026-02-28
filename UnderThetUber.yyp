@@ -39,6 +39,7 @@
     {"id":{"name":"sPerson1","path":"sprites/sPerson1/sPerson1.yy",},},
     {"id":{"name":"sPerson2","path":"sprites/sPerson2/sPerson2.yy",},},
     {"id":{"name":"sPerson3","path":"sprites/sPerson3/sPerson3.yy",},},
+    {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
