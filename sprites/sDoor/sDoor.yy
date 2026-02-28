@@ -2,9 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"sDoor",
   "bboxMode":0,
-  "bbox_bottom":0,
+  "bbox_bottom":49,
   "bbox_left":0,
-  "bbox_right":0,
+  "bbox_right":15,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":64,
+  "height":50,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"f0b40995-794c-4aa5-8d11-04415fbc608f","blendMode":0,"displayName":"default","isLocked":false,"name":"f0b40995-794c-4aa5-8d11-04415fbc608f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":64,
+  "width":16,
 }
