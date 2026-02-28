@@ -4,6 +4,7 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"oBackground","order":9,"path":"objects/oBackground/oBackground.yy",},
     {"name":"oDoor","order":1,"path":"objects/oDoor/oDoor.yy",},
     {"name":"oDriver","order":2,"path":"objects/oDriver/oDriver.yy",},
     {"name":"oGarbage","order":4,"path":"objects/oGarbage/oGarbage.yy",},
@@ -11,6 +12,7 @@
     {"name":"oPerson1","order":7,"path":"objects/oPerson1/oPerson1.yy",},
     {"name":"oPerson2","order":6,"path":"objects/oPerson2/oPerson2.yy",},
     {"name":"oPerson3","order":5,"path":"objects/oPerson3/oPerson3.yy",},
+    {"name":"sBackground","order":9,"path":"sprites/sBackground/sBackground.yy",},
     {"name":"sCarriage","order":2,"path":"sprites/sCarriage/sCarriage.yy",},
     {"name":"sDoor","order":1,"path":"sprites/sDoor/sDoor.yy",},
     {"name":"sDriver","order":8,"path":"sprites/sDriver/sDriver.yy",},

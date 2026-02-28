@@ -22,6 +22,7 @@
   },
   "name":"UnderThetUber",
   "resources":[
+    {"id":{"name":"oBackground","path":"objects/oBackground/oBackground.yy",},},
     {"id":{"name":"oCarriage","path":"objects/oCarriage/oCarriage.yy",},},
     {"id":{"name":"oDoor","path":"objects/oDoor/oDoor.yy",},},
     {"id":{"name":"oDriver","path":"objects/oDriver/oDriver.yy",},},
@@ -30,7 +31,8 @@
     {"id":{"name":"oPerson1","path":"objects/oPerson1/oPerson1.yy",},},
     {"id":{"name":"oPerson2","path":"objects/oPerson2/oPerson2.yy",},},
     {"id":{"name":"oPerson3","path":"objects/oPerson3/oPerson3.yy",},},
-    {"id":{"name":"Euston","path":"rooms/Euston/Euston.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sBackground","path":"sprites/sBackground/sBackground.yy",},},
     {"id":{"name":"sCarriage","path":"sprites/sCarriage/sCarriage.yy",},},
     {"id":{"name":"sDoor","path":"sprites/sDoor/sDoor.yy",},},
     {"id":{"name":"sDriver","path":"sprites/sDriver/sDriver.yy",},},
@@ -44,7 +46,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Euston","path":"rooms/Euston/Euston.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
