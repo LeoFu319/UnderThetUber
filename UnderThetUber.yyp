@@ -26,6 +26,7 @@
     {"id":{"name":"sCarriage","path":"sprites/sCarriage/sCarriage.yy",},},
     {"id":{"name":"sDoor","path":"sprites/sDoor/sDoor.yy",},},
     {"id":{"name":"sDriver","path":"sprites/sDriver/sDriver.yy",},},
+    {"id":{"name":"sGarbage","path":"sprites/sGarbage/sGarbage.yy",},},
     {"id":{"name":"sPerson1","path":"sprites/sPerson1/sPerson1.yy",},},
     {"id":{"name":"sPerson2","path":"sprites/sPerson2/sPerson2.yy",},},
   ],

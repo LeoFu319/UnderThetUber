@@ -7,6 +7,7 @@
     {"name":"sCarriage","order":2,"path":"sprites/sCarriage/sCarriage.yy",},
     {"name":"sDoor","order":1,"path":"sprites/sDoor/sDoor.yy",},
     {"name":"sDriver","order":5,"path":"sprites/sDriver/sDriver.yy",},
+    {"name":"sGarbage","order":6,"path":"sprites/sGarbage/sGarbage.yy",},
     {"name":"sPerson2","order":4,"path":"sprites/sPerson2/sPerson2.yy",},
   ],
 }
