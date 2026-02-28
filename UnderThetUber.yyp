@@ -30,7 +30,7 @@
     {"id":{"name":"oPerson1","path":"objects/oPerson1/oPerson1.yy",},},
     {"id":{"name":"oPerson2","path":"objects/oPerson2/oPerson2.yy",},},
     {"id":{"name":"oPerson3","path":"objects/oPerson3/oPerson3.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Euston","path":"rooms/Euston/Euston.yy",},},
     {"id":{"name":"sCarriage","path":"sprites/sCarriage/sCarriage.yy",},},
     {"id":{"name":"sDoor","path":"sprites/sDoor/sDoor.yy",},},
     {"id":{"name":"sDriver","path":"sprites/sDriver/sDriver.yy",},},
@@ -44,7 +44,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Euston","path":"rooms/Euston/Euston.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
