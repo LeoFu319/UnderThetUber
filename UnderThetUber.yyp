@@ -9,7 +9,9 @@
     "name":"Default",
   },
   "defaultScriptType":0,
-  "Folders":[],
+  "Folders":[
+    {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
   "isEcma":false,
@@ -20,6 +22,12 @@
   "name":"UnderThetUber",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sBackground","path":"sprites/sBackground/sBackground.yy",},},
+    {"id":{"name":"sCarriage","path":"sprites/sCarriage/sCarriage.yy",},},
+    {"id":{"name":"sDoor","path":"sprites/sDoor/sDoor.yy",},},
+    {"id":{"name":"sDriver","path":"sprites/sDriver/sDriver.yy",},},
+    {"id":{"name":"sPerson1","path":"sprites/sPerson1/sPerson1.yy",},},
+    {"id":{"name":"sPerson2","path":"sprites/sPerson2/sPerson2.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
