@@ -18,5 +18,6 @@
     {"name":"sMap","order":8,"path":"sprites/sMap/sMap.yy",},
     {"name":"sPerson2","order":4,"path":"sprites/sPerson2/sPerson2.yy",},
     {"name":"sPerson3","order":7,"path":"sprites/sPerson3/sPerson3.yy",},
+    {"name":"Sprite9","order":8,"path":"sprites/Sprite9/Sprite9.yy",},
   ],
 }
