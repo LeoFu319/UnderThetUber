@@ -13,5 +13,6 @@
     {"name":"sGarbage","order":6,"path":"sprites/sGarbage/sGarbage.yy",},
     {"name":"sPerson2","order":4,"path":"sprites/sPerson2/sPerson2.yy",},
     {"name":"sPerson3","order":7,"path":"sprites/sPerson3/sPerson3.yy",},
+    {"name":"Sprite8","order":8,"path":"sprites/Sprite8/Sprite8.yy",},
   ],
 }
